@@ -1,3 +1,4 @@
+<div align="center">
 ## DongHyun
 
 ### 🛠 Skills
@@ -9,3 +10,5 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Redex-764ABC?style=flat-square&logo=Redex&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=FFFFFF"/>
+  
+</div>
