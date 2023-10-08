@@ -23,6 +23,6 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=FFFFFF"/>
   
   ### GitHub Stats
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=websteak&show_icons=true&theme=radical)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=princeton-d&show_icons=true&theme=radical)
   
 </div>
