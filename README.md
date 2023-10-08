@@ -3,12 +3,13 @@
 ## DongHyun
 
 ### 🛠 Skills
-<img src="https://img.shields.io/badge/배지이름-색깔?style=flat-square&logo=Java&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/배지이름-색깔?style=flat-square&logo=로고&logoColor=FFFFFF"/>
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=Java&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=Java&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/배지이름-색깔?style=flat-square&logo=Java&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Java&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Spring Data JPA-006600?style=flat-square&logo=Java&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/QueryDSL-0099E5?style=flat-square&logo=Java&logoColor=FFFFFF"/>
 
 
 
